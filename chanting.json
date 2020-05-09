@@ -1,0 +1,80 @@
+{
+    "type": "Chanting",
+    "original_source": "http://www.dhammadownload.com/Chanting-mp3.htm",
+    "created_date": "May 9, 2020",
+    "updated_date": "May 9, 2020",
+    "sermons": [
+        {
+            "id": 1,
+            "title": "ပဠာန်းအမွှန်းပါဠိတော်",
+            "by": "မင်းကွန်းဆရာတော် ဦးဝိစိတ္တသာရာဘိဝံသ",
+            "source": "http://dhammadownload.com/MP3Library/Pa-Htan-Tayars/001-MingunSayadaw-PahtanAhMhoonParLiTaw.mp3"
+        },
+        {
+            "id": 2,
+            "title": "ပဠာန်းပါဠိတော် အနေကဇာတင် တရား",
+            "by": "ဦးဉာဏိဿရ",
+            "source": "http://dhammadownload.com/MP3Library/Pa-Htan-Tayars/002-UNyanissara-PaHtanParLiTaw-AhNayKaZarTinTayar.mp3"
+        },
+        {
+            "id": 3,
+            "title": "ပဠာန်းပါဠိတော် ဓာရဏပရိတ်တော်",
+            "by": "ကြာနီကန်ဆရာတော် ဦးဇဋိလ",
+            "source": "http://dhammadownload.com/MP3Library/Pa-Htan-Tayars/003-KyarNiKanUZadila-PaHtanParLiTaw-DarRaNaPaYateTaw.mp3"
+        },
+        {
+            "id": 4,
+            "title": "ပဋ္ဌာန်း ဝတ်ရွတ်စဉ်",
+            "by": "ဓမ္မာစရိယတက္ကသိုလ်များ၏ နာယကချုပ်ဆရာတော် ဘဒ္ဒန္တသုစိတ္တာဘိဝံသ",
+            "source": "http://dhammadownload.com/MP3Library/Bhaddanta-Thuseiktha-Vivamsa/Bhaddanta-ThuseilthaBhivamsa-PaHtan-Pyaer-2014-12-23.mp3"
+        },
+        {
+            "id": 5,
+            "title": "ပဠာန်းပါဠိတော်",
+            "by": "ဓမ္မစေတီဆရာတော် ဘဒ္ဒန္တ ကောသလ္လ",
+            "source": "http://dhammadownload.com/MP3Library/Pa-Htan-Tayars/004-DhammaCetiSayadawBhaddantaKosala-PaHtanParLiTaw.mp3"
+        },
+        {
+            "id": 6,
+            "title": "ပဠာန်းပါဠိတော်",
+            "by": "တွံတေးဆရာတော် ဦးဣန္ဒက",
+            "source": "http://dhammadownload.com/MP3Library/Pa-Htan-Tayars/005-ToonTaySayadaw-UEainDaka-PaHtan.mp3"
+        },
+        {
+            "id": 7,
+            "title": "ပဠာန်းဓာရဏပရိတ်တရား",
+            "by": "အရှင် ဘဒ္ဒန္တ သီလာစာရ",
+            "source": "http://dhammadownload.com/MP3Library/Pa-Htan-Tayars/006-BhaddantaThiLaSara-PaHtanDarRanaPayateTayar.mp3"
+        },
+        {
+            "id": 8,
+            "title": "ပဠာန်းပါဠိတော် နှင့် မဟာသမယသုတ်",
+            "by": "အရှင် ဘဒ္ဒန္တ ကုမာရ",
+            "source": "http://dhammadownload.com/MP3Library/Pa-Htan-Tayars/007-BhaddantaKumaRa-PaHtanParLiTawNhitMahaThaMaYaThout.mp3"
+        },
+        {
+            "id": 9,
+            "title": "ပဠာန်းဒေသနာတော်",
+            "by": "ဦးစောအောင်",
+            "source": "http://dhammadownload.com/MP3Library/Pa-Htan-Tayars/008-USawAung-PaHtanDaeThaNarTaw.mp3"
+        },
+        {
+            "id": 10,
+            "title": "အောင်ဆုတောင်းဂါထာ ပဠာန်းမဟာသမယ၊ အဠိယသုတ်",
+            "by": "ဦးဉာဏိဿရ",
+            "source": "http://dhammadownload.com/MP3Library/Pa-Htan-Tayars/009-UNyanissara-AungSuTaungGarHtarPaHtanMahaThaMaYa-AhHteetYaThout.mp3"
+        },
+        {
+            "id": 11,
+            "title": "၄-၂-၂၀၁၀ ပဠာန်းဒေသနာ ဝတ်ရွတ်စဉ် တရားတော်",
+            "by": "ဗန်းမော်ဆရာတော်ကြီး",
+            "source": "http://dhammadownload.com/MP3Library/Bamaw-Sayadaw-Dr-Bhaddanta-Kumarabhivamsa/MP3DVD/001-BamawSayadaw-PaHtan-Prayer.mp3"
+        },
+        {
+            "id": 12,
+            "title": "၅-၂-၂၀၁၀ မဟာသတိပဋ္ဌာနသုတ် ဝတ်ရွတ်စဉ် တရားတော်",
+            "by": "ဗန်းမော်ဆရာတော်ကြီး",
+            "source": "http://dhammadownload.com/MP3Library/Bamaw-Sayadaw-Dr-Bhaddanta-Kumarabhivamsa/MP3DVD/002-Bamaw-Sayadaw-Mahathatipahtana(Prayer)-01.mp3"
+        }
+    ]
+}
