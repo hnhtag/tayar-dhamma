@@ -3,7 +3,7 @@
     "original_source": "http://www.dhammadownload.com/Chanting-mp3.htm",
     "created_date": "May 9, 2020",
     "updated_date": "May 9, 2020",
-    "sermons": [
+    "pahtan": [
         {
             "id": 1,
             "title": "ပဠာန်းအမွှန်းပါဠိတော်",
@@ -75,6 +75,68 @@
             "title": "၅-၂-၂၀၁၀ မဟာသတိပဋ္ဌာနသုတ် ဝတ်ရွတ်စဉ် တရားတော်",
             "by": "ဗန်းမော်ဆရာတော်ကြီး",
             "source": "http://dhammadownload.com/MP3Library/Bamaw-Sayadaw-Dr-Bhaddanta-Kumarabhivamsa/MP3DVD/002-Bamaw-Sayadaw-Mahathatipahtana(Prayer)-01.mp3"
+        }
+    ],
+    "dhammasatkyar": [
+        {
+            "id": 1,
+            "title": "ဓမ္မစကြာ ၊ အနတ္တလက္ခဏသုတ်၊ မဟာသမယသုတ်",
+            "by": "မင်းကွန်းဆရာတော် ဦးဝိစိတ္တသာရာဘိဝံသ",
+            "source": "http://dhammadownload.com/MP3Library/DhammasatkyarTaYars/001-MingunSayadaw-Dhammasatkyar.mp3"
+        },
+        {
+            "id": 2,
+            "title": "ဓမ္မစကြာ၊ အနတ္တလက္ခဏသုတ်",
+            "by": "ဦးဉာဏိဿရ",
+            "source": "http://dhammadownload.com/MP3Library/DhammasatkyarTaYars/002-UNyanissara-Dhammasatkyar.mp3"
+        },
+        {
+            "id": 3,
+            "title": "ဓမ္မစကြာ တရားတော်",
+            "by": "ဦးကုဏ္ဍလ",
+            "source": "http://dhammadownload.com/MP3Library/DhammasatkyarTaYars/003-UKonnarla-Dhammasatkyar.mp3"
+        },
+        {
+            "id": 4,
+            "title": "ဓမ္မစကြာ တရားတော်",
+            "by": "ဦးဝရ၀",
+            "source": "http://dhammadownload.com/MP3Library/DhammasatkyarTaYars/004-UWaRaWa-Dhammasatkyar.mp3"
+        },
+        {
+            "id": 5,
+            "title": "ဓမ္မစကြာ တရားတော်",
+            "by": "မိုးကုတ် ကမ္မဋ္ဌာနာစရိယ Unknown",
+            "source": "http://dhammadownload.com/MP3Library/DhammasatkyarTaYars/005-Unknown-Dhammasatkyar.mp3"
+        },
+        {
+            "id": 6,
+            "title": "ပရိတ်၊ ပဠာန်း၊ ဓမ္မစကြာ။ မေတ္တာဘာဝနာ",
+            "by": "ဦးကဝိဓဇ",
+            "source": "http://dhammadownload.com/MP3Library/DhammasatkyarTaYars/006-UKaWeiZay-PaHtan-Dhammasatkyar-Metta.mp3"
+        },
+        {
+            "id": 7,
+            "title": "ဓမ္မစကြာတရားတော် (မြန်မာပြန် -၁)",
+            "by": "မင်းကွန်းဆရာတော် ဦးဝိစိတ္တသာရာဘိဝံသ",
+            "source": "http://dhammadownload.com/MP3Library/DhammasatkyarTaYars/007-MingunSayadaw-Dhammasatkyar-1.mp3"
+        },
+        {
+            "id": 8,
+            "title": "ဓမ္မစကြာတရားတော် (မြန်မာပြန် -၂)",
+            "by": "မင်းကွန်းဆရာတော် ဦးဝိစိတ္တသာရာဘိဝံသ",
+            "source": "http://dhammadownload.com/MP3Library/DhammasatkyarTaYars/008-MingunSayadaw-Dhammasatkyar-2.mp3"
+        },
+        {
+            "id": 9,
+            "title": "ဓမ္မစကြာတရားတော် (မြန်မာပြန် -၃)",
+            "by": "မင်းကွန်းဆရာတော် ဦးဝိစိတ္တသာရာဘိဝံသ",
+            "source": "http://dhammadownload.com/MP3Library/DhammasatkyarTaYars/009-MingunSayadaw-Dhammasatkyar-3.mp3"
+        },
+        {
+            "id": 10,
+            "title": "ဓမ္မစကြာတရားတော် (မြန်မာပြန် -၄)",
+            "by": "မင်းကွန်းဆရာတော် ဦးဝိစိတ္တသာရာဘိဝံသ",
+            "source": "http://dhammadownload.com/MP3Library/DhammasatkyarTaYars/010-MingunSayadaw-Dhammasatkyar-3.mp3"
         }
     ]
 }
